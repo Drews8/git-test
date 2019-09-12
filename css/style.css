@@ -1,3 +1,9 @@
 body{
 	background-color: tomato;
 }
+p{
+	color: lightgray;
+}
+h1{
+	font-size: 50px;
+}
